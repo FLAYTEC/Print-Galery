@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans&display=swap");
+
+.lista{
+    display:inline-flex;
+    align-items: center;
+    list-style: none;
+    padding: 5px 10px auto;
+}
+
+.img1{
+    padding: 25px;
+}
+
+.img1:hover{
+    background-color: #AEB6BF;
+    border-radius: 40% 30px;
+}

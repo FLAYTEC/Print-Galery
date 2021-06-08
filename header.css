@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans&display=swap");
+:root{
+    
+}
+
+.lista1{
+    display:inline-flex;
+    align-items: center;
+    list-style: none;
+    padding: 5px 10px auto;
+}
+
+.img2{
+    padding: 20px;
+}
